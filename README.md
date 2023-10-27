@@ -27,7 +27,7 @@ This is a memory puzzle game built in Python using the Pygame library. The game 
 
 ## Files
 
-- `main.py`: Main script to run the game.
+- `game.py`: Main script to run the game.
 - `won.png`: A congratulatory image displayed upon completing the game.
 
 ## Acknowledgements
